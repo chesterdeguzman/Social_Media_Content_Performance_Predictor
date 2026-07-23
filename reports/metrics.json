@@ -1,0 +1,9 @@
+{
+  "rows": 30000,
+  "train_rows": 24000,
+  "test_rows": 6000,
+  "r2": 0.6095,
+  "mae": 6.976,
+  "rmse": 8.8017,
+  "random_state": 42
+}
