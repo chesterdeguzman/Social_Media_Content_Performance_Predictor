@@ -1,0 +1,21 @@
+platform,day_of_week,publish_hour,post_format,content_category,caption_length,hashtag_count,caption_sentiment,has_call_to_action,follower_count,account_age_months,historical_avg_engagement,recent_engagement_trend,paid_promotion,engagement_score
+Facebook,Saturday,22,Carousel,Lifestyle,96,2,0.492,No,830,89,43.94,-0.134,0,73.289
+TikTok,Sunday,8,Image,Community,228,8,0.308,Yes,13944,80,32.319,0.177,0,69.202
+Facebook,Saturday,7,Short Video,Behind the Scenes,283,4,0.971,Yes,40036,69,13.032,-0.008,0,51.298
+Instagram,Tuesday,2,Text,Behind the Scenes,48,1,0.536,Yes,13723,50,7.712,0.003,0,34.653
+TikTok,Monday,21,Text,Lifestyle,165,4,0.598,No,10960,38,22.672,0.038,0,56.81
+Facebook,Thursday,2,Short Video,Product,28,7,0.517,No,4646,141,9.906,0.023,0,38.196
+X,Thursday,1,Image,Behind the Scenes,156,3,0.713,Yes,13847,95,7.563,-0.04,1,57.67
+LinkedIn,Friday,20,Short Video,Entertainment,169,6,0.626,Yes,7471,109,41.193,-0.176,0,72.98
+Facebook,Sunday,18,Text,Education,181,5,0.124,Yes,3489,53,24.382,-0.432,0,36.198
+TikTok,Thursday,0,Text,Education,36,6,0.358,No,711,108,4.38,-0.048,0,28.305
+X,Thursday,15,Carousel,Behind the Scenes,79,2,0.275,No,19233,14,20.639,0.023,0,68.658
+Instagram,Thursday,4,Image,Entertainment,61,2,0.172,No,1046,82,9.082,0.289,1,31.557
+X,Monday,9,Short Video,Lifestyle,208,4,0.253,No,2828,57,41.73,-0.307,1,65.005
+Instagram,Monday,1,Carousel,Lifestyle,123,5,0.794,No,1094,48,42.33,-0.266,0,59.491
+Facebook,Sunday,0,Carousel,Product,124,9,0.07,No,3424,144,27.589,0.092,0,36.35
+TikTok,Monday,10,Short Video,Lifestyle,76,6,-0.067,Yes,1045,142,2.123,0.138,0,60.618
+X,Friday,18,Text,Community,22,6,0.797,No,16669,67,30.531,0.288,0,79.076
+TikTok,Wednesday,16,Text,Education,69,8,-0.293,Yes,50393,16,36.036,0.291,0,64.963
+TikTok,Thursday,4,Image,Entertainment,102,4,0.414,No,15089,78,21.701,-0.251,0,43.305
+Instagram,Friday,21,Image,Community,216,6,0.666,No,35786,13,40.691,-0.047,0,68.629
