@@ -1,0 +1,55 @@
+{
+  "features": [
+    "publish_hour",
+    "caption_length",
+    "hashtag_count",
+    "caption_sentiment",
+    "follower_count",
+    "account_age_months",
+    "historical_avg_engagement",
+    "recent_engagement_trend",
+    "paid_promotion",
+    "platform",
+    "day_of_week",
+    "post_format",
+    "content_category",
+    "has_call_to_action"
+  ],
+  "allowed_values": {
+    "platform": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "LinkedIn",
+      "X"
+    ],
+    "day_of_week": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "post_format": [
+      "Image",
+      "Carousel",
+      "Short Video",
+      "Long Video",
+      "Text"
+    ],
+    "content_category": [
+      "Education",
+      "Entertainment",
+      "Lifestyle",
+      "Product",
+      "Community",
+      "Behind the Scenes"
+    ],
+    "has_call_to_action": [
+      "Yes",
+      "No"
+    ]
+  }
+}
